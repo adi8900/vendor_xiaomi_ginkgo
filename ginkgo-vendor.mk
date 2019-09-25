@@ -2316,4 +2316,5 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     WfdCommon \
     vendor.qti.hardware.capabilityconfigstore-V1.0-java \
-    vendor.qti.hardware.soter-V1.0-java
+    vendor.qti.hardware.soter-V1.0-java \
+    chargeonlymode
